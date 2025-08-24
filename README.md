@@ -41,5 +41,5 @@ To run this project locally, follow these steps:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/YourUsername/lirr-delay-predictor.git](https://github.com/YourUsername/lirr-delay-predictor.git)
+git clone [https://github.com/Asad-khrd/lirr-delay-predictor.git](https://github.com/Asad-khrd/lirr-delay-predictor.git)
 cd lirr-delay-predictor
