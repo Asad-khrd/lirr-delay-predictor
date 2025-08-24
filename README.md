@@ -20,7 +20,7 @@ A real-time dashboard that uses a machine learning model to predict the likely c
 ## 📸 Dashboard Screenshot
 
 
-*(Add a screenshot of your running Streamlit app here!)*
+![Dashboard Screenshot](https://github.com/Asad-khrd/lirr-delay-predictor/blob/main/Screenshot%202025-08-24%20115210.png)
 
 ---
 
